@@ -1,0 +1,1 @@
+import{aA as s,j as e}from"./index.a70ecfc8.js";import{M as a,V as t}from"./main.d3458670.js";import"./auth.f9eace48.js";var m=()=>s([{path:"/*",element:e(a,{}),children:[{path:"success",element:e(t,{})}]}]);export{m as default};
